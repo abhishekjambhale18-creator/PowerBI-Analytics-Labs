@@ -43,10 +43,10 @@ Current focus is on proper data modeling (star schema, dimension & fact tables, 
 ### 📸 Model Screenshots
 
 #### Lab 2 – Sales Star Schema
-![Sales Model](screenshots/PowerBI2.png)
+![Sales Model](Screenshots/PowerBI2.png)
 
 #### Lab 3 – HR Analytics Model
-![HR Model](screenshots/PowerBI3.png)
+![HR Model](Screenshots/PowerBI3.png)
 
 ---
 
@@ -61,7 +61,7 @@ PowerBI-Analytics-Labs/
 ├── PowerBI4.pbix
 ├── PowerBI5.pbix
 ├── PowerBI6.pbix
-├── screenshots/
+├── Screenshots/
 │   ├── PowerBI2.png
 │   └── PowerBI3.png
 └── README.md
